@@ -1,0 +1,12 @@
+{
+  "name": "review-replies",
+  "version": "1.0.0",
+  "description": "One review thread at a time: the claim checked against the code, the exact edit, and a reply drafted in the team's own register, with every edit, commit, and posted reply left to you.",
+  "author": {
+    "name": "Aref Mozafari"
+  },
+  "homepage": "https://github.com/ArefMozafari/review-replies",
+  "repository": "https://github.com/ArefMozafari/review-replies",
+  "license": "MIT",
+  "keywords": ["code-review", "pull-request", "merge-request", "review-comments", "agent-skill"]
+}

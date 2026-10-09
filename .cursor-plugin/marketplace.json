@@ -1,0 +1,16 @@
+{
+  "name": "review-replies",
+  "owner": {
+    "name": "Aref Mozafari"
+  },
+  "metadata": {
+    "description": "Agent skill that answers review comments on your own pull request one thread at a time, checked against the code."
+  },
+  "plugins": [
+    {
+      "name": "review-replies",
+      "source": "./",
+      "description": "One review thread at a time: the claim checked against the code, the exact edit, and a reply drafted in the team's own register, with every edit, commit, and posted reply left to you."
+    }
+  ]
+}
